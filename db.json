@@ -1,0 +1,94 @@
+{
+  "monstros": [
+    { 
+      "id": 1, 
+      "nome": "Patarmon", 
+      "tipos": ["Planta"],
+      "descricao": "Patarmon gosta de brincar com as frutas que nascem de seu corpo!",
+      "altura": 1.5,
+      "peso": 15.7,
+      "habilidades": ["Fruta ácida", "Explosão de folhas"]
+    },
+    { 
+      "id": 2, 
+      "nome": "Sacimon", 
+      "tipos": ["Voador", "Planta"],
+      "descricao": "Sacimon usa de seu furacão de folhas para derrubar os oponentes!",
+      "altura": 1.0,
+      "peso": 9.5,
+      "habilidades": ["Furacão de folhas", "Explosão de folhas"]
+    },
+    { 
+      "id": 3, 
+      "nome": "Tamaramon", 
+      "tipos": ["Terra", "Água"],
+      "descricao": "Este monstro de lama cria areias movediças mortais!",
+      "altura": 1.2,
+      "peso": 10.5,
+      "habilidades": ["Areia movediça", "Lama incapacitante"]
+    },
+    { 
+      "id": 4, 
+      "nome": "Miromon", 
+      "tipos": ["Fogo", "Psíquico"],
+      "descricao": "Miromon é um mostrinho inteligente e cheio de labaredas!",
+      "altura": 0.4,
+      "peso": 1.5,
+      "habilidades": ["Fogo cerebral"]
+    },
+    { 
+      "id": 5, 
+      "nome": "Diguimon", 
+      "tipos": ["Água", "Pedra"],
+      "descricao": "Um montro montanha que ataca com sua cachoeira!",
+      "altura": 5.4,
+      "peso": 70.2,
+      "habilidades": ["Cachoeira de Águas Quentes", "Defesa rígida"]
+    },
+    { 
+      "id": 6, 
+      "nome": "Titemon", 
+      "tipos": ["Fantasma"],
+      "descricao": "Um monstro espírito que ataca os menos avisados...",
+      "altura": 1.5,
+      "peso": 0,
+      "habilidades": ["Lamento congelante", "Sombra do olhar"]
+    },
+    { 
+      "id": 7, 
+      "nome": "Pipermon", 
+      "tipos": ["Psíquico", "Água"],
+      "descricao": "Pipermon hipnotiza seus inimigos com ondas d'água!",
+      "altura": 1.5,
+      "peso": 4.5,
+      "habilidades": ["Ondas Hipnóticas"]
+    }
+  ],
+  "lideres": [
+    {
+      "id": 1,
+      "nome": "Kotor Huverion",
+      "titulo": "O grande treinador de Água!"
+    },
+    {
+      "id": 2,
+      "nome": "Tuana Mamerion",
+      "titulo": "A mestra dos monstros psíquicos!"
+    },
+    {
+      "id": 3,
+      "nome": "Nina Uter",
+      "titulo": "Manipuladora dos monstros voadores!"
+    }
+  ],
+  "medalhas": [
+    { 
+      "id": 1, 
+      "nome": "Grande campeão da Água"
+    },
+    { 
+      "id": 2, 
+      "nome": "Protetor das árvores"
+    }
+  ]
+}
